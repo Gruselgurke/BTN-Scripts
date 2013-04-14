@@ -2,7 +2,7 @@
 // @name        Change Schedule Time Zone
 // @namespace   Gruselgurke
 // @description changes time zone used on the schedule page based on your time zone
-// @updateURL	
+// @updateURL	https://github.com/Gruselgurke/BTN-Scripts/raw/master/TV_Schedule_Timezone_Converter/Change_Schedule_Time_Zone.user.js
 // @include     *broadcasthe.net/tvschedule.php
 // @grant		-
 // @version     0.2
